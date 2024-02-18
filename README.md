@@ -6,7 +6,11 @@ The modules in this block are front-end desktop modules developed in Python and 
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Dashboard-brightgreen.svg)](https://github.com/dronsEETAC/DashboardDEE) a desktop application that allows the global control of the system (arm, take-off and guide the drone, define flight plans, process data coming from the drone, etc.).
 
 * *Drone Circus*:
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-DroneCircus-brightgreen.svg)](https://github.com/dronsEETAC/DroneCircusDEE) a desktop application that allows the user to interact with the drone platform in a fun way (for instance, guide the drone with body poses or with the voice). 
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-DroneCircus-brightgreen.svg)](https://github.com/dronsEETAC/DroneCircusDEE) a desktop application that allows the user to interact with the drone platform in a fun way (for instance, guide the drone with body poses or with the voice).
+
+* *MultidronBoard*:
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-MultidroneBoard-brightgreen.svg)](https://github.com/dronsEETAC/MultidroneBoard) a desktop application that allows to control up to 4 drones flying in the dronLab
+
 
 
 ## 2. Python and PyCharm
