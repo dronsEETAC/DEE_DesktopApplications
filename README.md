@@ -24,3 +24,8 @@ The code developed in this tutorial can be found here: [![DroneEngineeringEcosys
 
 A nice course on Tkinter can be found here:   
 [Tkinter](https://www.youtube.com/watch?v=YXPyB4XeYLA)   
+
+En este repositorio [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-telecoRenta_taller_de_drones-blue.svg)](https://github.com/dronsEETAC/telecoRenta_taller_de_drones.git) puede encontrarse información sobre cómo trabajar con Mission Planner y el simulador SITL, y también sobre como construir una sencilla estación de tierra en Python como la que se usa en este repositorio.    
+      
+En este repositorio [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Programacion_de_drones-blue.svg)](https://github.com/dronsEETAC/Programacion-de-drones.git) se puede encontrar abundante material sobre cómo desarrollar estaciones de tierra en Python mucho más sofisticadas que la que se ha usado aqui (incluyendo la visualización de mapas, trayectorias del dron o control del dron mediante poses el cuerpo).
+
