@@ -9,9 +9,10 @@ The modules in this block are front-end desktop modules developed in Python and 
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-DroneCircus-brightgreen.svg)](https://github.com/dronsEETAC/DroneCircusDEE) a desktop application that allows the user to interact with the drone platform in a fun way (for instance, guide the drone with body poses or with the voice).
 
 * *MultidronBoard*:
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-MultidroneBoard-brightgreen.svg)](https://github.com/dronsEETAC/MultidroneBoard) a desktop application that allows to control up to 4 drones flying in the dronLab
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-MultidroneBoard-brightgreen.svg)](https://github.com/dronsEETAC/MultidroneBoard) a desktop application that allows to control up to 4 drones flying in the dronLab and play different games with the drons.
 
-
+* *GroundStationBernat*:
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-GroundStationBernat-brightgreen.svg)](https://github.com/dronsEETAC/GroundStationBernat) a desktop application that allows flight planning with image adquisition, object recognition and stitching.
 
 ## 2. Python and PyCharm
 In order to run and contribute to the modules in this block you need to install versión 3.7 of Python. We recomend you to use PyCharm as IDE for development in Python.
