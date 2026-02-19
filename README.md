@@ -18,7 +18,8 @@ The modules in this block are front-end desktop modules developed in Python and 
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-VirtualCircuit-brightgreen.svg)](https://github.com/dronsEETAC/Unity) a desktop application in C# and Unity that shows a virtual circuit of rings in the video stream coming from the drone camera.
 
 * *Dashboard in csharp*:
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-VirtualCircuit-brightgreen.svg)](https://github.com/dronsEETAC/Unity) a desktop application in C# and Unity that shows a virtual circuit of rings in the video stream coming from the drone camera.
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Dashboard_cs-brightgreen.svg)](https://github.com/dronsEETAC/Dashboard_csharp) a desktop application in C# with a variety of functionalities for indoor fly, including flight planning, geofences and videostreaming.
+ 
 
 ## 2. Python and PyCharm
 In order to run and contribute to the modules in this block you need to install versión 3.7 of Python. We recomend you to use PyCharm as IDE for development in Python.
