@@ -19,7 +19,10 @@ The modules in this block are front-end desktop modules developed in Python and 
 
 * *Dashboard in csharp*:
 [![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Dashboard_cs-brightgreen.svg)](https://github.com/dronsEETAC/Dashboard_csharp) a desktop application in C# with a variety of functionalities for indoor fly, including flight planning, geofences and videostreaming.
- 
+
+ * *Indoor Flight Planner in csharp*:
+[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-Indoor_flight_planner_cs-brightgreen.svg)](https://github.com/dronsEETAC/InDoorFlightPlanner) a desktop application in C#  for indoor flight planning.
+
 
 ## 2. Python and PyCharm
 In order to run and contribute to the modules in this block you need to install versión 3.7 of Python. We recomend you to use PyCharm as IDE for development in Python.
